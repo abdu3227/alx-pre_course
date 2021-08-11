@@ -1,1 +1,1 @@
-# alx-pre_course and only for this task
+# alx-pre_course is so cool!
