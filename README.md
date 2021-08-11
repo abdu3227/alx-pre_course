@@ -1,1 +1,1 @@
-# alx-pre_course is so cool!
+# alx-pre_course
